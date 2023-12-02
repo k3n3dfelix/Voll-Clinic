@@ -1,9 +1,7 @@
 
-![React com Typescript: desenvolvendo uma área administrativa com MUI, Recharts e Styled Components](https://imgur.com/Qgf3van.png)
 
-# React com Typescript: desenvolvendo uma área administrativa
-
-Este projeto faz parte da escola Front-end e tem como objetivo ensinar a construção de uma página de área administrativa utilizando React com Typescript e as bibliotecas Styled-Components, MUI e Recharts.
+# Voll-Clinic
+👨‍⚕️ Aplicação com finalidade de gerenciamento de clinicas médicas
 
 ## Funcionalidades do projeto
 
@@ -20,4 +18,4 @@ As técnicas e tecnologias que serão utilizadas neste projeto são:
 - Styled-Components: Biblioteca para estilização de componentes React utilizando CSS-in-JS.
 - MUI: Biblioteca de componentes React para criação de interfaces de usuário modernas e responsivas.
 - Recharts: Biblioteca para criação de gráficos utilizando React.
-# Voll-Clinic
+
